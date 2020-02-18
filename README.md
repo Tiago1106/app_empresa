@@ -1,6 +1,6 @@
-# erro
+# APP EMPPRESA
 
-A new Flutter application.
+A new Flutter application for company registration.
 
 ## Getting Started
 
